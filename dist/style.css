@@ -1,0 +1,6 @@
+/*!**********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/header.css ***!
+  \**********************************************************************/header{background-color:brown;color:#fff;padding:20px;text-align:center}
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/css/index.css ***!
+  \*********************************************************************/*{background-color:#deb887;box-sizing:border-box;margin:0;padding:0}.box{border:1px solid teal;margin:0 auto;max-width:600px;min-height:200px}
